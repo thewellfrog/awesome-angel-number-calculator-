@@ -12,6 +12,10 @@ Angel numbers are sequences that carry divine guidance from the spiritual realm.
 - [Comprehensive Angel Number Tools](#comprehensive-angel-number-tools)
 - [Angel Number Meaning Guides](#angel-number-meaning-guides)
 - [Mobile Apps](#mobile-apps)
+- [Numerology Calculators](#numerology-calculators)
+- [Numerology Guide Pages](#numerology-guide-pages)
+- [How to Calculate Your Angel Number](#how-to-calculate-your-angel-number)
+- [Why Do I Keep Seeing the Same Numbers?](#why-do-i-keep-seeing-the-same-numbers)
 - [Further Reading](#further-reading)
 
 ## Birthday Angel Number Calculators
@@ -93,6 +97,28 @@ Angel number apps for on-the-go guidance.
 - [Labyrinthos App](https://labyrinthos.co) - While primarily a tarot app, includes numerology features and spiritual number guidance.
 - [Biddy Tarot App](https://biddytarot.com) - Community app with weekly readings that often incorporate numerological insights.
 
+## Numerology Calculators
+
+Related numerology tools for deeper number exploration.
+
+- [Destiny Number Calculator](https://tarostarot.com/destiny-number-calculator) - Calculate your Destiny/Expression number from your full birth name to understand your life purpose.
+- [Personal Year Calculator](https://tarostarot.com/personal-year-calculator) - Find your current personal year number and its influence on the year ahead.
+- [Life Path Number Calculator](https://tarostarot.com/life-path-number-calculator) - Calculate your Life Path number, the most important number in your numerology chart.
+- [Karmic Debt Calculator](https://tarostarot.com/karmic-debt-calculator) - Identify karmic debt numbers (13, 14, 16, 19) in your chart and understand their lessons.
+- [Name Numerology Calculator](https://tarostarot.com/name-numerology-calculator) - Pythagorean and Chaldean numerology analysis of your name.
+- [Address Numerology Calculator](https://tarostarot.com/address-numerology-calculator) - Discover the numerological energy of your home address.
+- [Business Name Numerology Calculator](https://tarostarot.com/business-name-numerology-calculator) - Check numerological compatibility for business names.
+- [Numerology Compatibility](https://tarostarot.com/numerology-compatibility) - Compare life path numbers between two people for relationship insights.
+- [Birth Chart Calculator](https://tarostarot.com/birth-chart-calculator) - Full natal chart with planetary positions and house placements.
+
+## Numerology Guide Pages
+
+In-depth guides covering numerology concepts, mirror hours, and angel number meanings.
+
+- [Numerology Hub](https://tarostarot.com/numerology) - Comprehensive numerology guides for numbers 1-9, master numbers 11/22/33, and karmic debt numbers.
+- [Mirror Hours Guide](https://tarostarot.com/mirror-hours) - Complete guide to mirror hours (11:11, 22:22, etc.) and their spiritual significance.
+- [Angel Numbers Guide](https://tarostarot.com/angel-numbers) - Individual meaning pages for 63+ angel number sequences.
+
 ---
 
 ## How to Calculate Your Angel Number
@@ -135,6 +161,10 @@ Articles explaining the technical and spiritual aspects of angel numbers.
 ### Angel Number Guides
 - [7 Best Angel Number Calculators in 2026](https://medium.com/@dicktracey909/7-best-angel-number-calculators-in-2026-find-your-divine-messages-fb304e1836d4) - Curated roundup of the best angel number tools with detailed reviews.
 - [Best Free Spiritual Tools Online in 2026](https://spirit-tech.hashnode.dev/the-best-free-spiritual-tools-online-in-2026-a-developers-curated-list) - Developer-curated collection including angel number calculators alongside other spiritual tools.
+
+### Spiritual Tools & Perspectives
+- [Tarot Isn't Magic, But It Might Be the Best Thinking Tool You're Not Using](https://medium.com/@dicktracey909/tarot-isnt-magic-but-it-might-be-the-best-thinking-tool-you-re-not-using-5eb590841c65) - A rational approach to spiritual tools and how they can enhance self-reflection.
+- [Discovering Taro's Tarot: Your Guide to Love](https://medium.com/@dicktracey909/discovering-taros-tarot-your-guide-to-love-b3343ec1b85e) - How spiritual tools like tarot and numerology can support relationships.
 
 ---
 
