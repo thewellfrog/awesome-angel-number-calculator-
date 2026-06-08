@@ -28,6 +28,7 @@ Calculate your personal angel number using your date of birth (Life Path method)
 - [InstaAstro Angel Number Calculator](https://instaastro.com/numerology/angel-number/) - Birth date calculator with detailed interpretations for numbers 1-9 and master numbers 11, 22, 33. Explains how to recognize angel numbers in daily life.
 - [Numerology Sign Calculator](https://numerologysign.com/calculate-angel-number-birth-date-name/) - Free calculator for both Life Path and Expression angel numbers with no email required.
 - [Svana Design Birthday Calculator](https://svanadesign.com/pages/angel-number-calculator-birthday) - Simple, elegant calculator showing how to find your angel number manually or instantly via the tool.
+- [AngelNumbers.me](https://angelnumbers.me/) - Free birthday-based angel number calculator with a date picker, plus individual meaning guides for 111, 222, 333, 444, 555, 666, 777, 888, 999, 1010, 1111, 1212, and 2222. No signup or email required.
 
 ## Name-Based Angel Number Calculators
 
